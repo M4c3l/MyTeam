@@ -8,11 +8,8 @@ public class Main {
 		Player player = new Player(2, "Dragovic", "Defense");
 		System.out.println("== " + player);
 		
-		player = new Player(4, "Alaba", "Defense");
-		System.out.println("==" + player);
-		
-		player = new Player(5, "Sabizer", "Attack");
-		System.out.println("==" + player);
+		Player player = new Player(4, "Hinteregger", "Defense");
+		System.out.println("== " + player);
 	}
 
 }
